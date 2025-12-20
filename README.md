@@ -1,6 +1,5 @@
 # Localized-FQH-Quasihole-Framework
 **Author: Skyler Morris <br>**
-**PI: Prof. Armin Rahmani <br>**
 **Last updated: 8 Dec 2025**
 
 ## Overview
@@ -27,17 +26,13 @@ V_{k,m}\, c^\dagger_{j+m}\ c^\dagger_{j+k}\ c_{j+m+k}c_j
 $$
 
 $$
-V_{k,m} \propto (k^2 - m^2)\exp\left(-k^2 \frac{k^2 + m^2}{2}\right)
+V_{k,m} \propto (k^2 - m^2)\exp \left(-k^2 \frac{k^2 + m^2}{2}\right)
 $$
 
 Introducing another flux quantum to the $\nu = \frac{1}{3}$ system and the potential
 
 $$
-U_{m,n}(h) = \exp \left(
--\tfrac{1}{2}(h_y - \kappa m)^2
--\tfrac{1}{2}(h_y - \kappa n)^2
-+ i\, h_x\, \kappa (m-n)
-)
+U_{m,n}(h) = \exp (-\frac{1}{2}(h_y - \kappa m)^2-\tfrac{1}{2}(h_y - \kappa n)^2+ i\, h_x\, \kappa (m-n))
 $$
 
 gives the quasihole-supporting Hamiltonian:
