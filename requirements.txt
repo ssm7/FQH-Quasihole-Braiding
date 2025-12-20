@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+h5py
+qiskit-terra
+qiskit-aer
+bqskit
+openfermion
+jupyter
+notebook
