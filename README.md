@@ -1,6 +1,6 @@
 # Localized-FQH-Quasihole-Framework
 **Author: Skyler Morris <br>**
-**Last updated: 8 Dec 2025**
+**Last updated: 20 Dec 2025**
 
 ## Overview
 This repository contains simulation tools for **Luaghlin** aand **Moore-Read** quantum Hall states. <br>
